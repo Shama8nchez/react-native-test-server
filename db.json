@@ -16,7 +16,21 @@
       "body": "repudiandae veniam quaerat sunt sed alias aut fugiat sit autem sed est voluptatem omnis possimus esse voluptatibus quis est aut tenetur dolor neque"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "comments": [
+    {
+      "id": 1,
+      "body": "First comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Second comment",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "Third comment",
+      "postId": 3
+    }
+  ]
 }
