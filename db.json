@@ -19,17 +19,17 @@
   "comments": [
     {
       "id": 1,
-      "body": "First comment",
+      "text": "First comment",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "Second comment",
+      "text": "Second comment",
       "postId": 1
     },
     {
       "id": 3,
-      "body": "Third comment",
+      "text": "Third comment",
       "postId": 3
     }
   ]
